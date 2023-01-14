@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
   "id": "ScoreToggler",
   "name": "ScoreToggler",
-  "author": "",
+  "author": "CGray1234",
   "version": "0.0.1",
-  "description": "",
+  "description": "A mod to enable/disable score submissions at the flip of a switch (or toggle)!",
   "gameVersion": "1.27.0_3031150051",
   "dependsOn": {
     "BSIPA": "^4.2.2",
