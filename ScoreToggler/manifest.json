@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "ScoreToggler",
+  "name": "ScoreToggler",
+  "author": "",
+  "version": "0.0.1",
+  "description": "",
+  "gameVersion": "1.27.0_3031150051",
+  "dependsOn": {
+    "BSIPA": "^4.2.2",
+    "BeatSaberMarkupLanguage": "^1.6.8",
+    "SiraUtil":  "^3.1.2"
+  }
+}
