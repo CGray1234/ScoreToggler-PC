@@ -1,0 +1,10 @@
+﻿<bg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd">
+    <vertical horizontal-fit="PreferredSize" vertical-fit="PreferredSize" pad="3" background="round-rect-panel" background-color="#FFFFFFAA">
+        <text id="warning-text-remove-this-before-release" color="#FF0000" font-size="20" text="WARNING"/>
+        <text id="wip-text-remove-this-before-release" color="#FFFFFF" font-size="15" text="This is a WIP (work-in-progress) mod. This can be very unstable, and it is not recommended that you use this before release."/>
+    </vertical>
+
+    <vertical horizontal-fit="PreferredSize" vertical-fit="PreferredSize" pad="3" background="round-rect-panel" background-color="#FFFFFFAA">
+        <toggle-setting text="Score Submissions Enabled" value="scores_enabled" apply-on-change="true"/>
+    </vertical>
+</bg>

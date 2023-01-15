@@ -1,0 +1,5 @@
+﻿<bg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/monkeymanboy/BSML-Docs/gh-pages/BSMLSchema.xsd">
+    <vertical horizontal-fit="PreferredSize" vertical-fit="PreferredSize" pad="3" background="round-rect-panel" background-color="#FFFFFFAA">
+        <toggle-setting text="Score Submissions Enabled" value="scores-enabled" apply-on-change="true"/>
+    </vertical>
+</bg>
