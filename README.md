@@ -5,5 +5,5 @@ A mod to enable/disable score submissions at the flip of a switch (or toggle)!
 # TODO:
 
 - [ ] UI (in progress)
-- [ ] Config
+- [x] Config
 - [ ] Make UI do stuff
