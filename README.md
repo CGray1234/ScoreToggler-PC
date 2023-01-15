@@ -4,6 +4,7 @@ A mod to enable/disable score submissions at the flip of a switch (or toggle)!
 
 # TODO:
 
-- [x] UI (in progress)
-- [x] Config (in progress)
-- [x] Make UI do stuff (in progress)
+- [x] UI
+- [x] Config
+- [x] Make UI do stuff
+- [ ] Implement the toggle in the leaderboard (like Quest)
